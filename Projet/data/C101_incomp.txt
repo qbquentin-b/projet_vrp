@@ -1,0 +1,9 @@
+# Fichier: C101_incomp.txt
+# (Les lignes avec # sont des commentaires)
+#
+# Client 3 et 4 sont incompatibles
+3  4
+# Client 1 et 7 aussi
+1  7
+# Client 10 et 20
+10 20 

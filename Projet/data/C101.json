@@ -1,0 +1,63 @@
+{
+    "vehicle_capacity": 200.0,
+    "customer_0": {
+        "coordinates": {"x": 40.0, "y": 50.0},
+        "demand": 0.0,
+        "ready_time": 0.0,
+        "due_time": 1236.0,
+        "service_time": 0.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_1": {
+        "coordinates": {"x": 45.0, "y": 68.0},
+        "demand": 10.0,
+        "ready_time": 912.0,
+        "due_time": 967.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "ambient",
+            "access_requires": "none",
+            "incompatible_with": [2]
+        }
+    },
+    "customer_2": {
+        "coordinates": {"x": 45.0, "y": 70.0},
+        "demand": 30.0,
+        "ready_time": 825.0,
+        "due_time": 870.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "frozen",
+            "access_requires": "none",
+            "incompatible_with": [1]
+        }
+    },
+    "customer_3": {
+        "coordinates": {"x": 42.0, "y": 66.0},
+        "demand": 10.0,
+        "ready_time": 65.0,
+        "due_time": 146.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "ambient",
+            "access_requires": "tail_lift",
+            "incompatible_with": []
+        }
+    },
+    "customer_4": {
+        "coordinates": {"x": 42.0, "y": 68.0},
+        "demand": 10.0,
+        "ready_time": 727.0,
+        "due_time": 782.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "ambient",
+            "access_requires": "tail_lift",
+            "incompatible_with": []
+        }
+    }
+}
