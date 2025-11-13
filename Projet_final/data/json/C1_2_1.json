@@ -1,0 +1,1518 @@
+{
+    "vehicle_capacity": 200.0,
+    "customer_0": {
+        "coordinates": {
+            "x": 70.0,
+            "y": 70.0
+        },
+        "demand": 0.0,
+        "ready_time": 0.0,
+        "due_time": 1351.0,
+        "service_time": 0.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_1": {
+        "coordinates": {
+            "x": 33.0,
+            "y": 78.0
+        },
+        "demand": 20.0,
+        "ready_time": 750.0,
+        "due_time": 809.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_2": {
+        "coordinates": {
+            "x": 59.0,
+            "y": 52.0
+        },
+        "demand": 20.0,
+        "ready_time": 553.0,
+        "due_time": 602.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_3": {
+        "coordinates": {
+            "x": 10.0,
+            "y": 137.0
+        },
+        "demand": 30.0,
+        "ready_time": 147.0,
+        "due_time": 219.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_4": {
+        "coordinates": {
+            "x": 4.0,
+            "y": 28.0
+        },
+        "demand": 10.0,
+        "ready_time": 616.0,
+        "due_time": 661.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_5": {
+        "coordinates": {
+            "x": 25.0,
+            "y": 26.0
+        },
+        "demand": 20.0,
+        "ready_time": 128.0,
+        "due_time": 179.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_6": {
+        "coordinates": {
+            "x": 86.0,
+            "y": 37.0
+        },
+        "demand": 10.0,
+        "ready_time": 478.0,
+        "due_time": 531.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_7": {
+        "coordinates": {
+            "x": 1.0,
+            "y": 109.0
+        },
+        "demand": 10.0,
+        "ready_time": 616.0,
+        "due_time": 680.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_8": {
+        "coordinates": {
+            "x": 6.0,
+            "y": 135.0
+        },
+        "demand": 40.0,
+        "ready_time": 351.0,
+        "due_time": 386.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_9": {
+        "coordinates": {
+            "x": 32.0,
+            "y": 79.0
+        },
+        "demand": 20.0,
+        "ready_time": 655.0,
+        "due_time": 721.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_10": {
+        "coordinates": {
+            "x": 24.0,
+            "y": 26.0
+        },
+        "demand": 20.0,
+        "ready_time": 219.0,
+        "due_time": 271.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_11": {
+        "coordinates": {
+            "x": 86.0,
+            "y": 36.0
+        },
+        "demand": 20.0,
+        "ready_time": 384.0,
+        "due_time": 443.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_12": {
+        "coordinates": {
+            "x": 95.0,
+            "y": 35.0
+        },
+        "demand": 10.0,
+        "ready_time": 196.0,
+        "due_time": 252.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_13": {
+        "coordinates": {
+            "x": 63.0,
+            "y": 50.0
+        },
+        "demand": 10.0,
+        "ready_time": 364.0,
+        "due_time": 416.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_14": {
+        "coordinates": {
+            "x": 100.0,
+            "y": 106.0
+        },
+        "demand": 10.0,
+        "ready_time": 567.0,
+        "due_time": 626.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_15": {
+        "coordinates": {
+            "x": 99.0,
+            "y": 112.0
+        },
+        "demand": 20.0,
+        "ready_time": 846.0,
+        "due_time": 911.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_16": {
+        "coordinates": {
+            "x": 36.0,
+            "y": 135.0
+        },
+        "demand": 10.0,
+        "ready_time": 598.0,
+        "due_time": 669.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_17": {
+        "coordinates": {
+            "x": 57.0,
+            "y": 59.0
+        },
+        "demand": 10.0,
+        "ready_time": 824.0,
+        "due_time": 890.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_18": {
+        "coordinates": {
+            "x": 8.0,
+            "y": 124.0
+        },
+        "demand": 10.0,
+        "ready_time": 231.0,
+        "due_time": 298.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_19": {
+        "coordinates": {
+            "x": 85.0,
+            "y": 106.0
+        },
+        "demand": 20.0,
+        "ready_time": 186.0,
+        "due_time": 253.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_20": {
+        "coordinates": {
+            "x": 103.0,
+            "y": 69.0
+        },
+        "demand": 30.0,
+        "ready_time": 33.0,
+        "due_time": 93.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_21": {
+        "coordinates": {
+            "x": 109.0,
+            "y": 131.0
+        },
+        "demand": 20.0,
+        "ready_time": 72.0,
+        "due_time": 141.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_22": {
+        "coordinates": {
+            "x": 43.0,
+            "y": 140.0
+        },
+        "demand": 10.0,
+        "ready_time": 410.0,
+        "due_time": 470.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_23": {
+        "coordinates": {
+            "x": 115.0,
+            "y": 134.0
+        },
+        "demand": 30.0,
+        "ready_time": 140.0,
+        "due_time": 199.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_24": {
+        "coordinates": {
+            "x": 98.0,
+            "y": 70.0
+        },
+        "demand": 10.0,
+        "ready_time": 467.0,
+        "due_time": 511.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_25": {
+        "coordinates": {
+            "x": 112.0,
+            "y": 67.0
+        },
+        "demand": 10.0,
+        "ready_time": 462.0,
+        "due_time": 534.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_26": {
+        "coordinates": {
+            "x": 102.0,
+            "y": 104.0
+        },
+        "demand": 20.0,
+        "ready_time": 201.0,
+        "due_time": 258.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_27": {
+        "coordinates": {
+            "x": 93.0,
+            "y": 75.0
+        },
+        "demand": 30.0,
+        "ready_time": 178.0,
+        "due_time": 238.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_28": {
+        "coordinates": {
+            "x": 90.0,
+            "y": 104.0
+        },
+        "demand": 20.0,
+        "ready_time": 845.0,
+        "due_time": 910.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_29": {
+        "coordinates": {
+            "x": 127.0,
+            "y": 108.0
+        },
+        "demand": 10.0,
+        "ready_time": 677.0,
+        "due_time": 743.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_30": {
+        "coordinates": {
+            "x": 84.0,
+            "y": 99.0
+        },
+        "demand": 20.0,
+        "ready_time": 32.0,
+        "due_time": 102.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_31": {
+        "coordinates": {
+            "x": 113.0,
+            "y": 69.0
+        },
+        "demand": 20.0,
+        "ready_time": 370.0,
+        "due_time": 440.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_32": {
+        "coordinates": {
+            "x": 129.0,
+            "y": 9.0
+        },
+        "demand": 10.0,
+        "ready_time": 84.0,
+        "due_time": 147.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_33": {
+        "coordinates": {
+            "x": 18.0,
+            "y": 38.0
+        },
+        "demand": 30.0,
+        "ready_time": 582.0,
+        "due_time": 638.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_34": {
+        "coordinates": {
+            "x": 30.0,
+            "y": 27.0
+        },
+        "demand": 10.0,
+        "ready_time": 772.0,
+        "due_time": 835.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_35": {
+        "coordinates": {
+            "x": 25.0,
+            "y": 80.0
+        },
+        "demand": 20.0,
+        "ready_time": 380.0,
+        "due_time": 440.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_36": {
+        "coordinates": {
+            "x": 17.0,
+            "y": 37.0
+        },
+        "demand": 30.0,
+        "ready_time": 493.0,
+        "due_time": 544.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_37": {
+        "coordinates": {
+            "x": 32.0,
+            "y": 106.0
+        },
+        "demand": 10.0,
+        "ready_time": 602.0,
+        "due_time": 657.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_38": {
+        "coordinates": {
+            "x": 43.0,
+            "y": 135.0
+        },
+        "demand": 10.0,
+        "ready_time": 215.0,
+        "due_time": 293.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_39": {
+        "coordinates": {
+            "x": 61.0,
+            "y": 59.0
+        },
+        "demand": 20.0,
+        "ready_time": 931.0,
+        "due_time": 971.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_40": {
+        "coordinates": {
+            "x": 104.0,
+            "y": 106.0
+        },
+        "demand": 20.0,
+        "ready_time": 390.0,
+        "due_time": 434.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_41": {
+        "coordinates": {
+            "x": 109.0,
+            "y": 71.0
+        },
+        "demand": 20.0,
+        "ready_time": 95.0,
+        "due_time": 163.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_42": {
+        "coordinates": {
+            "x": 121.0,
+            "y": 110.0
+        },
+        "demand": 30.0,
+        "ready_time": 870.0,
+        "due_time": 923.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_43": {
+        "coordinates": {
+            "x": 61.0,
+            "y": 48.0
+        },
+        "demand": 20.0,
+        "ready_time": 448.0,
+        "due_time": 517.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_44": {
+        "coordinates": {
+            "x": 74.0,
+            "y": 99.0
+        },
+        "demand": 20.0,
+        "ready_time": 176.0,
+        "due_time": 243.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_45": {
+        "coordinates": {
+            "x": 89.0,
+            "y": 73.0
+        },
+        "demand": 10.0,
+        "ready_time": 19.0,
+        "due_time": 94.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_46": {
+        "coordinates": {
+            "x": 21.0,
+            "y": 25.0
+        },
+        "demand": 20.0,
+        "ready_time": 405.0,
+        "due_time": 453.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_47": {
+        "coordinates": {
+            "x": 99.0,
+            "y": 28.0
+        },
+        "demand": 30.0,
+        "ready_time": 392.0,
+        "due_time": 442.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_48": {
+        "coordinates": {
+            "x": 101.0,
+            "y": 96.0
+        },
+        "demand": 10.0,
+        "ready_time": 101.0,
+        "due_time": 160.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_49": {
+        "coordinates": {
+            "x": 9.0,
+            "y": 114.0
+        },
+        "demand": 20.0,
+        "ready_time": 904.0,
+        "due_time": 954.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_50": {
+        "coordinates": {
+            "x": 121.0,
+            "y": 112.0
+        },
+        "demand": 20.0,
+        "ready_time": 221.0,
+        "due_time": 277.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_51": {
+        "coordinates": {
+            "x": 137.0,
+            "y": 6.0
+        },
+        "demand": 10.0,
+        "ready_time": 611.0,
+        "due_time": 678.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_52": {
+        "coordinates": {
+            "x": 118.0,
+            "y": 131.0
+        },
+        "demand": 20.0,
+        "ready_time": 782.0,
+        "due_time": 857.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_53": {
+        "coordinates": {
+            "x": 34.0,
+            "y": 82.0
+        },
+        "demand": 10.0,
+        "ready_time": 928.0,
+        "due_time": 1000.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_54": {
+        "coordinates": {
+            "x": 4.0,
+            "y": 125.0
+        },
+        "demand": 30.0,
+        "ready_time": 319.0,
+        "due_time": 398.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_55": {
+        "coordinates": {
+            "x": 26.0,
+            "y": 105.0
+        },
+        "demand": 40.0,
+        "ready_time": 115.0,
+        "due_time": 179.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_56": {
+        "coordinates": {
+            "x": 35.0,
+            "y": 123.0
+        },
+        "demand": 20.0,
+        "ready_time": 1130.0,
+        "due_time": 1198.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_57": {
+        "coordinates": {
+            "x": 21.0,
+            "y": 48.0
+        },
+        "demand": 10.0,
+        "ready_time": 53.0,
+        "due_time": 123.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_58": {
+        "coordinates": {
+            "x": 21.0,
+            "y": 115.0
+        },
+        "demand": 10.0,
+        "ready_time": 306.0,
+        "due_time": 376.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_59": {
+        "coordinates": {
+            "x": 99.0,
+            "y": 108.0
+        },
+        "demand": 20.0,
+        "ready_time": 952.0,
+        "due_time": 992.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_60": {
+        "coordinates": {
+            "x": 1.0,
+            "y": 34.0
+        },
+        "demand": 20.0,
+        "ready_time": 77.0,
+        "due_time": 132.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_61": {
+        "coordinates": {
+            "x": 94.0,
+            "y": 70.0
+        },
+        "demand": 20.0,
+        "ready_time": 556.0,
+        "due_time": 610.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_62": {
+        "coordinates": {
+            "x": 74.0,
+            "y": 93.0
+        },
+        "demand": 20.0,
+        "ready_time": 23.0,
+        "due_time": 66.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_63": {
+        "coordinates": {
+            "x": 32.0,
+            "y": 128.0
+        },
+        "demand": 20.0,
+        "ready_time": 1079.0,
+        "due_time": 1123.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_64": {
+        "coordinates": {
+            "x": 94.0,
+            "y": 73.0
+        },
+        "demand": 10.0,
+        "ready_time": 741.0,
+        "due_time": 791.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_65": {
+        "coordinates": {
+            "x": 135.0,
+            "y": 3.0
+        },
+        "demand": 20.0,
+        "ready_time": 250.0,
+        "due_time": 300.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_66": {
+        "coordinates": {
+            "x": 97.0,
+            "y": 28.0
+        },
+        "demand": 20.0,
+        "ready_time": 110.0,
+        "due_time": 170.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_67": {
+        "coordinates": {
+            "x": 59.0,
+            "y": 56.0
+        },
+        "demand": 20.0,
+        "ready_time": 745.0,
+        "due_time": 780.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_68": {
+        "coordinates": {
+            "x": 80.0,
+            "y": 97.0
+        },
+        "demand": 10.0,
+        "ready_time": 457.0,
+        "due_time": 518.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_69": {
+        "coordinates": {
+            "x": 134.0,
+            "y": 31.0
+        },
+        "demand": 20.0,
+        "ready_time": 508.0,
+        "due_time": 566.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_70": {
+        "coordinates": {
+            "x": 103.0,
+            "y": 34.0
+        },
+        "demand": 30.0,
+        "ready_time": 577.0,
+        "due_time": 636.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_71": {
+        "coordinates": {
+            "x": 30.0,
+            "y": 79.0
+        },
+        "demand": 20.0,
+        "ready_time": 561.0,
+        "due_time": 632.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_72": {
+        "coordinates": {
+            "x": 4.0,
+            "y": 30.0
+        },
+        "demand": 40.0,
+        "ready_time": 693.0,
+        "due_time": 768.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_73": {
+        "coordinates": {
+            "x": 87.0,
+            "y": 39.0
+        },
+        "demand": 20.0,
+        "ready_time": 35.0,
+        "due_time": 92.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_74": {
+        "coordinates": {
+            "x": 90.0,
+            "y": 101.0
+        },
+        "demand": 10.0,
+        "ready_time": 933.0,
+        "due_time": 1008.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_75": {
+        "coordinates": {
+            "x": 119.0,
+            "y": 136.0
+        },
+        "demand": 30.0,
+        "ready_time": 334.0,
+        "due_time": 384.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_76": {
+        "coordinates": {
+            "x": 78.0,
+            "y": 92.0
+        },
+        "demand": 30.0,
+        "ready_time": 555.0,
+        "due_time": 610.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_77": {
+        "coordinates": {
+            "x": 110.0,
+            "y": 66.0
+        },
+        "demand": 10.0,
+        "ready_time": 650.0,
+        "due_time": 710.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_78": {
+        "coordinates": {
+            "x": 62.0,
+            "y": 58.0
+        },
+        "demand": 20.0,
+        "ready_time": 173.0,
+        "due_time": 229.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_79": {
+        "coordinates": {
+            "x": 127.0,
+            "y": 112.0
+        },
+        "demand": 20.0,
+        "ready_time": 595.0,
+        "due_time": 636.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_80": {
+        "coordinates": {
+            "x": 113.0,
+            "y": 71.0
+        },
+        "demand": 10.0,
+        "ready_time": 286.0,
+        "due_time": 341.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_81": {
+        "coordinates": {
+            "x": 34.0,
+            "y": 104.0
+        },
+        "demand": 10.0,
+        "ready_time": 683.0,
+        "due_time": 760.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_82": {
+        "coordinates": {
+            "x": 2.0,
+            "y": 28.0
+        },
+        "demand": 10.0,
+        "ready_time": 148.0,
+        "due_time": 199.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_83": {
+        "coordinates": {
+            "x": 17.0,
+            "y": 43.0
+        },
+        "demand": 10.0,
+        "ready_time": 205.0,
+        "due_time": 279.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_84": {
+        "coordinates": {
+            "x": 1.0,
+            "y": 24.0
+        },
+        "demand": 10.0,
+        "ready_time": 333.0,
+        "due_time": 385.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_85": {
+        "coordinates": {
+            "x": 112.0,
+            "y": 71.0
+        },
+        "demand": 20.0,
+        "ready_time": 193.0,
+        "due_time": 252.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_86": {
+        "coordinates": {
+            "x": 135.0,
+            "y": 0.0
+        },
+        "demand": 10.0,
+        "ready_time": 331.0,
+        "due_time": 405.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_87": {
+        "coordinates": {
+            "x": 125.0,
+            "y": 108.0
+        },
+        "demand": 20.0,
+        "ready_time": 778.0,
+        "due_time": 825.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_88": {
+        "coordinates": {
+            "x": 8.0,
+            "y": 138.0
+        },
+        "demand": 30.0,
+        "ready_time": 234.0,
+        "due_time": 316.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_89": {
+        "coordinates": {
+            "x": 103.0,
+            "y": 111.0
+        },
+        "demand": 20.0,
+        "ready_time": 668.0,
+        "due_time": 719.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_90": {
+        "coordinates": {
+            "x": 57.0,
+            "y": 53.0
+        },
+        "demand": 10.0,
+        "ready_time": 641.0,
+        "due_time": 697.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_91": {
+        "coordinates": {
+            "x": 98.0,
+            "y": 31.0
+        },
+        "demand": 20.0,
+        "ready_time": 480.0,
+        "due_time": 541.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_92": {
+        "coordinates": {
+            "x": 116.0,
+            "y": 132.0
+        },
+        "demand": 10.0,
+        "ready_time": 870.0,
+        "due_time": 953.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_93": {
+        "coordinates": {
+            "x": 28.0,
+            "y": 99.0
+        },
+        "demand": 10.0,
+        "ready_time": 51.0,
+        "due_time": 93.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_94": {
+        "coordinates": {
+            "x": 137.0,
+            "y": 3.0
+        },
+        "demand": 20.0,
+        "ready_time": 522.0,
+        "due_time": 581.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_95": {
+        "coordinates": {
+            "x": 29.0,
+            "y": 28.0
+        },
+        "demand": 10.0,
+        "ready_time": 865.0,
+        "due_time": 925.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_96": {
+        "coordinates": {
+            "x": 94.0,
+            "y": 105.0
+        },
+        "demand": 10.0,
+        "ready_time": 656.0,
+        "due_time": 728.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_97": {
+        "coordinates": {
+            "x": 92.0,
+            "y": 107.0
+        },
+        "demand": 30.0,
+        "ready_time": 465.0,
+        "due_time": 532.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_98": {
+        "coordinates": {
+            "x": 10.0,
+            "y": 134.0
+        },
+        "demand": 10.0,
+        "ready_time": 629.0,
+        "due_time": 677.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_99": {
+        "coordinates": {
+            "x": 34.0,
+            "y": 79.0
+        },
+        "demand": 10.0,
+        "ready_time": 841.0,
+        "due_time": 902.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    },
+    "customer_100": {
+        "coordinates": {
+            "x": 94.0,
+            "y": 72.0
+        },
+        "demand": 20.0,
+        "ready_time": 647.0,
+        "due_time": 703.0,
+        "service_time": 90.0,
+        "attributes": {
+            "temperature": "multi-temp",
+            "access_requires": "all",
+            "incompatible_with": []
+        }
+    }
+}

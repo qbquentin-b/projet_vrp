@@ -1,0 +1,8 @@
+Instance,Nb_Clients,Nb_Vehicules,Vehicules_utilisés,Capacité,Coût_total_Z*,Coût_distance,Coût_véhicules,Coût_pénalité,Alpha,Beta,BigM,Statut
+C1_2_2,12,12,4,200.0,1147.6853,567.064,400.0,180.6213,100,2,10000,Optimal
+
+Véhicule,Route,Distance,Demande
+3,0 -> 12 -> 11 -> 6 -> 9 -> 1 -> 0,160.7467,80.0
+6,0 -> 3 -> 8 -> 7 -> 0,200.1465,80.0
+7,0 -> 10 -> 5 -> 4 -> 0,163.9808,50.0
+11,0 -> 2 -> 0,42.19,20.0
